@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/08183932-2653-4523-995d-5eaa462562ea.svg)](https://wakatime.com/@08183932-2653-4523-995d-5eaa462562ea)
+
 <!--
 **iuhoay/iuhoay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
